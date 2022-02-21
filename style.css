@@ -1,0 +1,18 @@
+body{
+background-color: rgb(241, 125, 212);
+}
+#heading{
+    width: 600;
+    font-size: 20px;
+}
+#bold{
+color: rgb(246, 227, 117);
+}
+#view{
+color: azure;
+}
+#input{
+border: dashed;
+width:350px;
+height: 300px;
+}
